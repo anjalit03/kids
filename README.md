@@ -20,13 +20,13 @@ This website provides following functionalities:
 
 
 •	Single and Multiplayer Selection: This functionality allows users to select from following modes:
--	Single-player mode¬ 
--	Multi-player mode¬¬¬
+                                              -	Single-player mode
+                                              -	Multi-player mode
 
 •	Difficulty Level Selection: Using this feature users can select among various difficulty levels:
--	Easy
--	Intermediate
--	Difficult
+                                                        -	Easy
+                                                        -	Intermediate
+                                                        -	Difficult
 
 •	Round Tracking: This functionality helps to keep track of registered user’s rounds.
 
@@ -40,8 +40,8 @@ This website provides following functionalities:
 
 •	Feedback: This functionality is used for taking feedback from the users to get review about our website and to get more ideas to make our software more efficient.
 
--	Rating
--	Review
--	Ways to improve the website 
+                              -	Rating
+                              -	Review
+                              -	Ways to improve the website 
 
-Check out more in detail about our website in this file - link
+Check out more in detail about our website in this file - https://drive.google.com/file/d/18Fgnzfnsipu_dlc3LDniT67sW6JnZJ--/view?usp=sharing
