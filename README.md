@@ -43,5 +43,3 @@ This website provides following functionalities:
                               -	Rating
                               -	Review
                               -	Ways to improve the website 
-
-Check out more in detail about our website in this file - https://drive.google.com/file/d/18Fgnzfnsipu_dlc3LDniT67sW6JnZJ--/view?usp=sharing
